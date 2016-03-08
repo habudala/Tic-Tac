@@ -1,0 +1,132 @@
+
+
+body {
+   margin: auto;
+}
+
+.container {
+			text-align:center;
+			margin:auto;
+			width:700px;
+			height:650px;}
+
+.text {width:100%;}
+
+h1 {font-size:45px;}
+
+/*#turn {border: 1px solid black;
+		width: 100px;
+		height: 50px;
+		margin:auto;
+		margin-bottom: 15px;
+		padding:5px;
+		line-height: 10px;
+		background-color:red;
+		border-radius:5px;
+		}*/
+
+#turn button{border: 1px solid black;
+		width: 100px;
+		height: 50px;
+		margin:auto;
+		margin-bottom: 15px;
+		padding:5px;
+		line-height: 10px;
+		background-color:red;
+		border-radius:5px;
+		background-color:red;
+		border:none;}
+
+	h2 {text-align:center;
+		color: white;}
+
+.board {/*border: 1px solid black;*/
+		width:700px;
+		height: 650px;
+		margin-top:50px;}
+
+#row-1 {height: 33%;
+		/*margin-bottom: 2px;*/
+		width: :100%}
+
+#row-2 {height: 33%;
+		/*margin-bottom: 2px;*/
+		width:100%;}
+
+#row-3 {height: 33%; 
+		/*margin-bottom: 2px;*/
+		width:100%;
+		}
+
+
+#one { margin: 0px -5px 0px 0px;
+		width:32.33%; height:100%;
+		display:inline-block;
+		border:20px solid black;
+		border-top: none;
+		border-left:none;}
+
+#two {margin: 0px 0px 0px 0px; 
+		width:32.33%; height:100%; 
+		display:inline-block;
+		border:20px solid black;
+		border-top:none;}
+
+#three {margin: 0px 0px 0px -5px; 
+		width:32.33%; height: 100%;
+		display:inline-block; 
+		border:20px solid black; 
+		border-top:none;
+		border-right:none;}
+
+#four{margin: 0px -5px 0px 0px;
+		width:32.33%; 
+		height: 100%; 
+		display:inline-block; 
+		border:20px solid black;
+		border-left:none;}
+
+#five{width:32.33%;
+	  height: 100%;
+	  display:inline-block;
+	  border:20px solid black;}
+
+#six{margin: 0px 0px 0px -5px; 
+	 width:32.33%;
+	 height: 100%; 
+	 display:inline-block; 
+	 border:20px solid black; 
+	 border-right:none;}
+
+#seven{margin: 0px -5px 0px 0px; 
+	   width:32.33%; 
+	   height: 100%; 
+	   display:inline-block; 
+	   border:20px solid black; 
+	   border-left: none; 
+	   border-bottom:none;}
+
+#eight{width:32.33%; 
+	   height: 100%; 
+	   display:inline-block; 
+	   border:20px solid black; 
+	   border-bottom:none;}
+
+#nine{margin: 0px 0px 0px -5px; 
+	  width:32.33%; 
+	  height: 100%; 
+	  display:inline-block; 
+	  border:20px solid black; 
+	  border-right:none; 
+	  border-bottom:none;}
+
+
+button {background-color:white;
+		}
+
+
+
+
+
+
+
